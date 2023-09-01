@@ -4,24 +4,24 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: green;
   }
   
   .game {
     text-align: center;
-    padding: 20px;
-    background-color: white;
-    border-radius: 10px;
+    padding: 21px;
+    background-color: red;
+    border-radius: 12px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   }
   
   .choice {
-    padding: 10px 20px;
-    font-size: 16px;
-    margin: 10px;
+    padding: 10px 18px;
+    font-size: 18px;
+    margin: 12px;
     cursor: pointer;
   }
   #result {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
   }
